@@ -1,0 +1,11 @@
+# macOS and R session files
+._*
+.DS_Store
+.Rhistory
+.RData
+.Rproj.user/
+~$*
+# Intermediate files rewritten by Supplement_Figures/make_supplement_figures.R
+Supplement_Figures/*.rds
+Supplement_Figures/MH_Figure_VELMEAN.csv
+Supplement_Figures/Table3_check.csv
