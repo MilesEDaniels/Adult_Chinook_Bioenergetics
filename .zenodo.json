@@ -1,0 +1,47 @@
+{
+  "title": "Code and data for: Modelling temperature and velocity effects on migration energetics and spawning success of adult Chinook salmon in a regulated river",
+  "description": "R scripts, input data, outputs and figures that reproduce the tables and figures of the article, an energy budget model of adult fall-run Chinook salmon migrating in the Sacramento River, California. See README.txt for how to run the scripts and a description of each data file.",
+  "upload_type": "software",
+  "access_right": "open",
+  "creators": [
+    {
+      "name": "FitzGerald, Alyssa",
+      "affiliation": "Institute of Marine Sciences, University of California, Santa Cruz; NOAA Southwest Fisheries Science Center"
+    },
+    {
+      "name": "Danner, Eric",
+      "affiliation": "Institute of Marine Sciences, University of California, Santa Cruz; NOAA Southwest Fisheries Science Center"
+    },
+    {
+      "name": "Atencio, Benjamin",
+      "affiliation": "Institute of Marine Sciences, University of California, Santa Cruz; NOAA Southwest Fisheries Science Center"
+    },
+    {
+      "name": "Mantua, Nate",
+      "affiliation": "Institute of Marine Sciences, University of California, Santa Cruz; NOAA Southwest Fisheries Science Center"
+    },
+    {
+      "name": "Michel, Cyril",
+      "affiliation": "Institute of Marine Sciences, University of California, Santa Cruz; NOAA Southwest Fisheries Science Center"
+    },
+    {
+      "name": "Caudill, Christopher C.",
+      "affiliation": "Department of Fish and Wildlife Sciences, University of Idaho"
+    },
+    {
+      "name": "Notch, Jeremy",
+      "affiliation": "Institute of Marine Sciences, University of California, Santa Cruz; NOAA Southwest Fisheries Science Center"
+    },
+    {
+      "name": "Daniels, Miles E.",
+      "affiliation": "Institute of Marine Sciences, University of California, Santa Cruz; NOAA Southwest Fisheries Science Center"
+    }
+  ],
+  "keywords": [
+    "Chinook salmon",
+    "bioenergetics",
+    "energy budget",
+    "thermal stress",
+    "California"
+  ]
+}

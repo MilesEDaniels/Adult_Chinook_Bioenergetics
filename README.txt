@@ -11,7 +11,7 @@ Conservation Physiology) and uses the bioenergetics model (Model 3) of Martin et
 Figures 1 (conceptual diagram) and 2 (map) were not made in R.
 
 HOW TO RUN
-Set the R working directory to this folder (Final_Code_Data) and run the scripts in order, 1 to 12.
+Set the R working directory to this folder and run the scripts in order, 1 to 12.
 Each script reads from Data/ and from the Output/ files written by earlier scripts, and writes to Output/.
 Total run time is about 4 minutes on a laptop (script 10 takes about 3 minutes).
 Tested with R 4.4.2 and packages ggplot2 3.5.1, dplyr 1.1.4, ggtext 0.1.2, multcompView 0.1.10,
@@ -108,7 +108,7 @@ NOTES
   without these fish, as published.
 - Script 6 corrects an error in the code used during the review, in which the anaerobic cost term was
   evaluated for only the slowest candidate swim speed when choosing the swim speed that minimises cost of
-  transport. Results in the published article were produced with the corrected code.
+  transport. Results in the article were produced with the corrected code.
 - Script 7 corrects a second error in the code used during the review. Model 3 cost (COST) is energy per unit
   time spent swimming, but the simulation charged it per unit elapsed time, which counted recovery twice
   wherever a fish had to stop to recover (TravProp < 1). COST is now multiplied by TravProp, so that energy
