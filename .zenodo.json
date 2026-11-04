@@ -43,5 +43,6 @@
     "energy budget",
     "thermal stress",
     "California"
-  ]
+  ],
+  "notes": "R scripts are licensed under the MIT License. Data and figures are licensed under CC BY 4.0, except Data/Klamath_Hearsey2011_FL_Mass_Gonad.csv, which reproduces values from Hearsey (2011). See LICENSE and LICENSE-DATA.txt."
 }

@@ -1,0 +1,19 @@
+Data and figures in this repository are licensed under the Creative Commons
+Attribution 4.0 International licence (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+This covers:
+- Data/
+- Output/
+- Fig_1.pdf to Fig_6.pdf
+- the figures and CSV file in Supplement_Figures/
+
+Please credit: Alyssa FitzGerald, Eric Danner, Benjamin Atencio, Nate Mantua,
+Cyril Michel, Christopher C. Caudill, Jeremy Notch, Miles E. Daniels.
+
+Exception: Data/Klamath_Hearsey2011_FL_Mass_Gonad.csv reproduces values from
+Hearsey (2011) and is not covered by this licence. Please cite the original source.
+Any other material from a third party keeps its original terms.
+
+The R scripts (*.R, including those in Supplement_Figures/) are licensed
+separately under the MIT License; see LICENSE.

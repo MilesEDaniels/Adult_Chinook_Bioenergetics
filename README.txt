@@ -113,3 +113,7 @@ NOTES
   time spent swimming, but the simulation charged it per unit elapsed time, which counted recovery twice
   wherever a fish had to stop to recover (TravProp < 1). COST is now multiplied by TravProp, so that energy
   per km equals the cost of transport. Migration timing is unchanged.
+
+LICENCE
+R scripts: MIT License (see LICENSE). Data and figures: CC BY 4.0 (see LICENSE-DATA.txt), except
+Data/Klamath_Hearsey2011_FL_Mass_Gonad.csv, which reproduces values from Hearsey (2011).
