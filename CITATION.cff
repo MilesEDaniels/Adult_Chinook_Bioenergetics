@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+type: software
+title: "Code and data for: Modelling temperature and velocity effects on migration energetics and spawning success of adult Chinook salmon in a regulated river"
+version: v1.0.0
+date-released: 2026-11-03
+doi: 10.5281/zenodo.23933705
+repository-code: "https://github.com/MilesEDaniels/Adult_Chinook_Bioenergetics"
+license:
+  - MIT
+  - CC-BY-4.0
+keywords:
+  - Chinook salmon
+  - bioenergetics
+  - energy budget
+  - thermal stress
+  - California
+authors:
+  - family-names: FitzGerald
+    given-names: Alyssa
+    affiliation: "Institute of Marine Sciences, University of California, Santa Cruz; NOAA Southwest Fisheries Science Center"
+  - family-names: Danner
+    given-names: Eric
+    affiliation: "Institute of Marine Sciences, University of California, Santa Cruz; NOAA Southwest Fisheries Science Center"
+  - family-names: Atencio
+    given-names: Benjamin
+    affiliation: "Institute of Marine Sciences, University of California, Santa Cruz; NOAA Southwest Fisheries Science Center"
+  - family-names: Mantua
+    given-names: Nate
+    affiliation: "Institute of Marine Sciences, University of California, Santa Cruz; NOAA Southwest Fisheries Science Center"
+  - family-names: Michel
+    given-names: Cyril
+    affiliation: "Institute of Marine Sciences, University of California, Santa Cruz; NOAA Southwest Fisheries Science Center"
+  - family-names: Caudill
+    given-names: Christopher C.
+    affiliation: "Department of Fish and Wildlife Sciences, University of Idaho"
+  - family-names: Notch
+    given-names: Jeremy
+    affiliation: "Institute of Marine Sciences, University of California, Santa Cruz; NOAA Southwest Fisheries Science Center"
+  - family-names: Daniels
+    given-names: Miles E.
+    affiliation: "Institute of Marine Sciences, University of California, Santa Cruz; NOAA Southwest Fisheries Science Center"
